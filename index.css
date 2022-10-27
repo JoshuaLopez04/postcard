@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+main{
+    border: 3px solid rgb(0, 0, 0);
+    width: 500px;
+    margin: auto;
+    height: 400px;
+    position: absolute;
+    top: 50px;
+}
+h1{
+    color: red;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.uno{
+    font-size: 30px;
+}
+.dos{
+    font-size: 30px;
+}
+.contenido{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 7px;
+}
+.Footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.tres{
+    width: 130px;
+    height: 25px;
+    font-size: 14px;
+}
